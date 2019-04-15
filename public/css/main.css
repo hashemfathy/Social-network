@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(193, 194, 197);
+}
+.post{
+    margin-top: 10px;
+    padding: 10px;
+    text-align: right;
+    background-color: rgb(206, 218, 221);
+}
+.interaction,
+.info{
+    text-align: left;
+}
+.interaction a{
+    padding:10px;
+    font-weight: bold;
+}
